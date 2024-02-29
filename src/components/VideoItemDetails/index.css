@@ -1,0 +1,127 @@
+.butterfly{
+  background-color: transparent;
+  color: blue;
+  border-width: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.sucking{
+  background-color: transparent;
+  border-width: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-dark {
+  background-color: black;
+  color: white;
+  margin: 0px;
+  height: 100vh;
+}
+
+.video-red {
+  background-color: white;
+  color: black;
+  margin: 0px;
+  height: 100vh;
+}
+.structure {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px;
+}
+.disco {
+  background-color: white;
+  width: 100vw;
+}
+.url {
+  width: 100vw;
+}
+.discos {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  margin: 0px;
+  height: 100vh;
+  padding: 20px;
+}
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-left: 220px;
+  height: 40px;
+}
+.count {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+.sections {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.horizontal {
+  border: 1px solid black;
+  width: 990px;
+  margin-right: 1000px;
+  margin-top: none;
+  padding-top: 0px;
+}
+.blue {
+  color: #2563eb;
+  height: 30px;
+  width: 80px;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.white {
+  color: #64748b;
+  height: 30px;
+  width: 80px;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.ss {
+  height: 40px;
+  width: 40px;
+}
+.profile-img {
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.vertical {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.para {
+  width: 900px;
+}
+.color {
+  margin-left: 20px;
+}
+.profile-para {
+  font-size: 15px;
+  margin-top: 30px;
+}
